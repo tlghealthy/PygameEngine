@@ -1,0 +1,17 @@
+{
+    "padding": 10,
+    "colors": {
+      "background": [30, 30, 30],
+      "button": [70, 130, 180],
+      "button_hover": [100, 160, 210],
+      "label": [255, 255, 255],
+      "panel": [50, 50, 50],
+      "border": [200, 200, 200],
+      "text_input_bg": [200, 200, 200],
+      "checkbox_box": [255, 255, 255],
+      "slider_track": [100, 100, 100]
+    },
+    "font_name": "freesansbold.ttf",
+    "font_size": 20
+  }
+  
