@@ -1,0 +1,12 @@
+{
+    "grid_width": 41,
+    "grid_height": 41,
+    "cell_size": 10,
+    "min_path_length": 15,
+    "maze_steps": 100,
+    "noise_threshold": 0.55,
+    "bsp_min_size": 6,
+    "screen_width": 860,
+    "screen_height": 860
+  }
+  

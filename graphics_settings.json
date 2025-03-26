@@ -1,0 +1,12 @@
+{
+    "screen_width": 800,
+    "screen_height": 600,
+    "fps": 60,
+    "background_color": [0, 0, 0],
+    "default_color": [255, 255, 255],
+    "shape_thickness": 0,
+    "paths": {
+      "assets": "./assets/"
+    }
+  }
+  
